@@ -1,7 +1,7 @@
 {
   "urls": [
     ["__config__.mpy", "github:bcbox/bcbox_tst/main/__config__.mpy"],
-    ["taskHandler.mpy", "github:bcbox/bcbox_tst/main/taskHandler.mpy"],
+    ["task_handler.mpy", "github:bcbox/bcbox_tst/main/task_handler.mpy"],
     ["comm.mpy", "github:bcbox/bcbox_tst/main/comm.mpy"],
     ["web_server_app.mpy", "github:bcbox/bcbox_tst/main/web_server_app.mpy"],
     ["gsm.mpy", "github:bcbox/bcbox_tst/main/gsm.mpy"],
