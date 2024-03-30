@@ -9,7 +9,9 @@
     ["neoway.mpy", "github:bcbox/bcbox_tst/main/neoway.mpy"],
     ["battery.mpy", "github:bcbox/bcbox_tst/main/battery.mpy"],
     ["template/main_html.mpy", "github:bcbox/bcbox_tst/main/template/main_html.mpy"],
+    ["template/index_html.mpy", "github:bcbox/bcbox_tst/main/template/index_html.mpy"],
     ["static/func.js", "github:bcbox/bcbox_tst/main/static/func.js"],
+    ["static/index.js", "github:bcbox/bcbox_tst/main/static/index.js"],
     ["static/style.css", "github:bcbox/bcbox_tst/main/static/style.css"]
 
   ]
