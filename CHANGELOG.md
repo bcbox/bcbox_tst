@@ -4,6 +4,7 @@
 
 <table>
     <tr><th>Author</th><th>Commit</th><th>Date</th></tr>
+    <tr><td>lipic </td><td> MQTT - úprava jádra mqtt handleru.</td><td>2024-06-24</td></tr>
     <tr><td>lipic </td><td> GSM - posílání seznam dostupných SSID, je-li BCBOX odpojen od Wi-Fi</td><td>2024-06-06</td></tr>
     <tr><td>lipic </td><td> Wi-Fi - filtrování SSID, na základě síly signálu. Je-li menší než 50%, SSID se nebude reportovat na server (Nebude možnost se k němu připojit).</td><td>2024-06-05</td></tr>
     <tr><td>lipic </td><td> Wi-Fi - úprava přepočtu dBi na %.</td><td>2024-06-05</td></tr>
