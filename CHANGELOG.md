@@ -4,6 +4,7 @@
 
 <table>
     <tr><th>Author</th><th>Commit</th><th>Date</th></tr>
+    <tr><td>lipic </td><td> MQTT - oprava reportování názvu AP.</td><td>2024-06-24</td></tr>
     <tr><td>lipic </td><td> GSM - přidáno logování chyb do souboru.</td><td>2024-06-24</td></tr>
     <tr><td>lipic </td><td> MQTT - přidáno logování chyb do souboru.</td><td>2024-06-24</td></tr>
     <tr><td>lipic </td><td> MQTT - úprava jádra mqtt handleru.</td><td>2024-06-24</td></tr>
