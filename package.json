@@ -13,8 +13,6 @@
     ["static/func.js", "github:bcbox/bcbox_tst/main/static/func.js"],
     ["static/index.js", "github:bcbox/bcbox_tst/main/static/index.js"],
     ["static/style.css", "github:bcbox/bcbox_tst/main/static/style.css"],
-
-    ["mqtt_as.mpy", "github:bcbox/bcbox_tst/main/mqtt_as.mpy"],
     ["file_handler.mpy", "github:bcbox/bcbox_tst/main/file_handler.mpy"]
   ]
 }
