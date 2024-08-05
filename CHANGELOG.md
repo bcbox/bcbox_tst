@@ -3,6 +3,7 @@
 ## [1.300] - 2024-...
 
 <table>
+    <tr><td>lipic </td><td> GSM - přidáno zpracování response při publikování zprávy. Při poslání příkazu v okamžiku publikování, mohlo dojít k zahození příkazu </td></tr>
     <tr><td>lipic </td><td> GSM - úprava handlování gsm </td></tr>
     <tr><td>lipic </td><td> GSM - přidán MQTT RECONNECTING stav do reportů </td></tr>
     <tr><td>lipic </td><td> LOGOVÁNÍ - Přidáno ošetření pro maximální velikost logů, aby se nezaplnila paměťi </td></tr>
