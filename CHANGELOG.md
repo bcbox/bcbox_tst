@@ -1,13 +1,13 @@
 # Changelog
 
-## [1.310] - 2024-10-07
+## [1.400] - 2024-10-07
 
 <table>
-    <tr><td>lipic </td><td> MQTT - Přidáno resetování BCBOXU po odpojení Wi-Fi a GSM trvajícím déle než 10 minut </td></tr>
-    <tr><td>lipic </td><td> MQTT - Přidáno zpracování příkazu, pro odpojení a vymazání seznamu wi-fi z DB </td></tr>
-    <tr><td>lipic </td><td> MQTT - Zpracování příkazů pro povelní/zakázání wi-fi a gsm modemu </td></tr>
-    <tr><td>lipic </td><td> GSM - přidáno zpracování response při publikování zprávy. Při poslání příkazu v okamžiku publikování, mohlo dojít k zahození příkazu </td></tr>
-    <tr><td>lipic </td><td> MQTT - Oprava reportů </td></tr>
-    <tr><td>lipic </td><td> MQTT - Snížen počet o znovu odeslání zprávy, dojde-li k chybě. V Hroznové se jinak posílaly reporty se starým časem.</td></tr>
-</table>
+    <tr><td>lipic </td><td> GSM - Integrace QUECTEL modemu </td></tr>
+    <tr><td>lipic </td><td> WiFi - Odesílání síly signálu i v případě, že Wi-Fi nemá připojení k Internetu</td></tr>
+    <tr><td>lipic </td><td> MQTT - Implementace odesílání SSID aktuální Wi-Fi </td></tr>
+    <tr><td>lipic </td><td> MQTT - Implementace odesílání informací o operátorovi, napájecím napětí a typu sítě </td></tr>
+    <tr><td>lipic </td><td> MQTT - Implementace odesílání informace o dostupnosti Internetu </td></tr>
+    <tr><td>lipic </td><td> GSM - Úprava počtu pokusů pro odeslání MQTT zprávy na 1, pokud dojde k chybě (dříve 5 pokusů)</td></tr>
 
+</table>
