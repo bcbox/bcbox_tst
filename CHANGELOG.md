@@ -9,5 +9,6 @@
     <tr><td>lipic </td><td> MQTT - Implementace odesílání informací o operátorovi, napájecím napětí a typu sítě </td></tr>
     <tr><td>lipic </td><td> MQTT - Implementace odesílání informace o dostupnosti Internetu </td></tr>
     <tr><td>lipic </td><td> GSM - Úprava počtu pokusů pro odeslání MQTT zprávy na 1, pokud dojde k chybě (dříve 5 pokusů)</td></tr>
-
+    <tr><td>lipic </td><td> TIME - Synchronizace času, jen když je dostupný Internet </td></tr>
+    <tr><td>lipic </td><td> SYSTÉM - Reset systému, není-li aktivní Internet, nebo GSM po dobu 40 minut </td></tr>
 </table>
