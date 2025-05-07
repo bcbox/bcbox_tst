@@ -4,6 +4,8 @@
 
 <table>
     <tr><td>lipic </td><td> GSM - Integrace QUECTEL modemu </td></tr>
+    <tr><td>lipic </td><td> GSM - Implementace aktualizace gsm modemu</td></tr>
+    <tr><td>lipic </td><td> GSM - Integrace vyčítání verze firmware</td></tr>
     <tr><td>lipic </td><td> WiFi - Odesílání síly signálu i v případě, že Wi-Fi nemá připojení k Internetu</td></tr>
     <tr><td>lipic </td><td> MQTT - Implementace odesílání SSID aktuální Wi-Fi </td></tr>
     <tr><td>lipic </td><td> MQTT - Implementace odesílání informací o operátorovi, napájecím napětí a typu sítě </td></tr>
